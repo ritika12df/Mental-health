@@ -2,9 +2,9 @@
 
 This project is a real-time health & wellness tracker built using Python, Taipy GUI, and Gemini AI for generating personalized tips. The application allows users to log hydration intake, physical activities, and mood metrics, providing AI-driven tips and daily summaries.
 
-### Features
+## Features
 
-# Hydration Tracker
+### Hydration Tracker
 
 - Log water intake in milliliters.
 
@@ -12,7 +12,7 @@ This project is a real-time health & wellness tracker built using Python, Taipy 
 
 - Receive AI-generated hydration tips based on intake.
 
-# Physical Activity Logger
+### Physical Activity Logger
 
 - Log activity type and duration.
 
@@ -20,23 +20,23 @@ This project is a real-time health & wellness tracker built using Python, Taipy 
 
 - Receive personalized activity tips.
 
-# Mental Well-Being Check-In
+### Mental Well-Being Check-In
 
 - Record mood, stress, and energy levels (1-10 scale).
 
 - Receive supportive tips for improving mental well-being.
 
-# Daily Summary
+### Daily Summary
 
 - Display a summary of hydration, calories burned, and mood status.
 
 ## How It Works
 
-# AI Tip Generation
+### AI Tip Generation
 
 The app uses Gemini AI to generate personalized tips for hydration, activity, and mood, ensuring relevant and supportive feedback for the user.
 
-# Data Storage
+### Data Storage
 
 Logged data is stored in a local SQLite database (wellness.db) with tables for hydration, activity, and mood.
 
@@ -49,10 +49,10 @@ Google Generative AI (google-generativeai)
 
 SQLite3
 
-## Note
+### Note
 You should have your Gemini Api key ready to use this application which you have to put in main.py and backend.py file
 
-### Setup Instructions
+## Setup Instructions
 
 # Clone the Repository
 First, clone the repository from GitHub:
