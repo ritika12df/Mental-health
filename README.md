@@ -40,7 +40,7 @@ The app uses Gemini AI to generate personalized tips for hydration, activity, an
 
 Logged data is stored in a local SQLite database (wellness.db) with tables for hydration, activity, and mood.
 
-## Dependencies
+## Required Dependencies
 Python 3.8+
 
 Taipy GUI (taipy-gui)
@@ -49,8 +49,27 @@ Google Generative AI (google-generativeai)
 
 SQLite3
 
+# Note
+You should have your Gemini Api key ready to use this application which you have to put in main.py and backend.py file
+
 ## Setup Instructions
 
 # Clone the Repository
+First, clone the repository from GitHub:
+```bash
+https://github.com/ritika12df/Mental-health
+```
+## Install Dependencies
+```bash
+pip install taipy google-generativeai
+```
+## Start the application:
+```bash
+taipy run main.py
+```
+### View the Application
+Once both the frontend and backend are running, you can view the AI-powered Real-Time Health & Wellness Monitor in your browser by navigating to http://localhost:5000.
 
-
+### twitter Handles
+  
+ - @Sdfg44257235
