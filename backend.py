@@ -2,7 +2,7 @@ import sqlite3
 import google.generativeai as genai
 
 # Configure the Gemini AI model
-genai.configure(api_key="gemini api key")
+genai.configure(api_key="gemini-api-key")
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 hydration_goal = 2000  # Default goal in ml
