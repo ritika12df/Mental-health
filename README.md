@@ -49,7 +49,7 @@ Google Generative AI (google-generativeai)
 
 SQLite3
 
-### Note
+## Note
 You should have your Gemini Api key ready to use this application which you have to put in main.py and backend.py file
 
 ## Setup Instructions
