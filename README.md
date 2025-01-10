@@ -68,7 +68,7 @@ pip install taipy google-generativeai
 taipy run main.py
 ```
 ### View the Application
-Once both the frontend and backend are running, you can view the AI-powered Real-Time Health & Wellness Monitor in your browser by navigating to http://localhost:5000.
+Once application is running, you can view the AI-powered Real-Time Health & Wellness Monitor in your browser by navigating to http://localhost:5000.
 
 ### twitter Handles
   
